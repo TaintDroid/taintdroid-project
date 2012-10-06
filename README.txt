@@ -25,7 +25,7 @@ was a nontrivial port due to significant changes between Android 2.3.4
 and Android 4.0.3. Minh also added tracking support for ByteBuffers.
  
 Gabriel Maganis wrote the original TaintDroidNotify GUI tool for
-TaintDroid
+TaintDroid.
 
 TaintDroid Project Contributers:
 
@@ -40,4 +40,10 @@ Patrick McDaniel <mcdaniel@cse.psu.edu>
 Anmol Sheth <anmolsheth@gmail.com>
 Gabriel Maganis <maganis@cs.ucdavis.edu>
 Vasant Tendulkar <tendulkar@ncsu.edu>
+
+For more information, visit http://appanalysis.org
+
+Post questions to the TaintDroid Google Group: http://groups.google.com/group/taintdroid
+
+Last Updated: Sat Oct  6 11:57:51 EDT 2012
 
