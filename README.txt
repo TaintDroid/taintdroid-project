@@ -27,7 +27,7 @@ and Android 4.0.3. Minh also added tracking support for ByteBuffers.
 Gabriel Maganis wrote the original TaintDroidNotify GUI tool for
 TaintDroid.
 
-Ben Andow ported TaintDroid from 4.1.1_r6 to 4.3_r1.
+Ben Andow ported TaintDroid from Android 4.1.1_r6 to 4.3_r1.
 
 TaintDroid Project Contributers:
 
